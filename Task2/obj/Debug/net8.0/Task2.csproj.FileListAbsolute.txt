@@ -1,0 +1,15 @@
+/Users/armine/Desktop/C#HW/C-HW/Task2/bin/Debug/net8.0/Task2
+/Users/armine/Desktop/C#HW/C-HW/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/armine/Desktop/C#HW/C-HW/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/armine/Desktop/C#HW/C-HW/Task2/bin/Debug/net8.0/Task2.dll
+/Users/armine/Desktop/C#HW/C-HW/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.dll
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/armine/Desktop/C#HW/C-HW/Task2/obj/Debug/net8.0/ref/Task2.dll
